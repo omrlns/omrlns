@@ -8,7 +8,7 @@
 💡 Sou novo na área tech, mas espero que em breve possa contribuir para o desenvolvimento de novas ferramentas e soluções para o mundo..
 
 <div>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omrlns&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omrlns&show_icons=true&theme=dracula&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omrlns&layout=compact&theme=dracula"/>
 </div>
 
