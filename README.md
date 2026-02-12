@@ -9,7 +9,7 @@
 
 <div>
 <a href="https://github.com/omrlns">
-<img loading="lazy" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omrlns&show_icons=true&theme=material palenight&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omrlns&show_icons=true&theme=materialpalenight&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🌱 Estou Aprendendo
